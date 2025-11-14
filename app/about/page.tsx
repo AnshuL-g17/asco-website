@@ -88,14 +88,14 @@ export default function AboutPage() {
                 <div className="text-muted-foreground">Years Experience</div>
               </div>
               <div>
-                <div className="text-3xl md:text-4xl font-bold text-secondary mb-2">500+</div>
+                <div className="text-3xl md:text-4xl font-bold text-secondary mb-2">1000+</div>
                 <div className="text-muted-foreground flex items-center justify-center gap-2">
                   <Award className="h-5 w-5 text-primary" />
                   Projects Completed
                 </div>
               </div>
               <div>
-                <div className="text-3xl md:text-4xl font-bold text-primary mb-2">100+</div>
+                <div className="text-3xl md:text-4xl font-bold text-primary mb-2">500+</div>
                 <div className="text-muted-foreground">Happy Clients</div>
               </div>
               <div>
