@@ -191,12 +191,6 @@ export default function CertificationsPage() {
                     </CardHeader>
                     <CardContent className="space-y-3 cert-mobile-padding">
                       <p className="text-muted-foreground text-center text-sm">{cert.description}</p>
-                      <div className="bg-muted/50 rounded-lg p-3">
-                        <div className="flex flex-col gap-1">
-                          <span className="font-medium text-xs">Certificate No.:</span>
-                          <span className="text-muted-foreground text-xs font-mono">{cert.certNo}</span>
-                        </div>
-                      </div>
                       <div className="pt-2">
                         <div className="text-xs font-medium mb-2">Scope:</div>
                         <div className="text-xs text-muted-foreground leading-relaxed bg-muted/30 rounded-lg p-2">
@@ -241,10 +235,6 @@ export default function CertificationsPage() {
                       <CardTitle className="text-base sm:text-lg text-center cert-mobile-text">{cert.title}</CardTitle>
                     </CardHeader>
                     <CardContent className="space-y-3 cert-mobile-padding">
-                      <div className="bg-muted/50 rounded-lg p-3">
-                        <div className="text-xs font-medium text-muted-foreground mb-1">Licence No.</div>
-                        <div className="text-sm font-mono">{cert.licenceNo}</div>
-                      </div>
                       <div className="bg-muted/50 rounded-lg p-3">
                         <div className="text-xs font-medium text-muted-foreground mb-1">Standard</div>
                         <div className="text-xs leading-relaxed">{cert.standard}</div>
