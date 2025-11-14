@@ -1,7 +1,7 @@
 "use client"
 
 import type React from "react"
-import { useRouter } from "next/router"
+import { useRouter } from "next/navigation"
 import { useState, useRef, useEffect } from "react"
 import Link from "next/link"
 import Image from "next/image"
