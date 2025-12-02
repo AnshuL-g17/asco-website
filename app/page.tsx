@@ -473,7 +473,7 @@ export default function HomePage() {
               </div>
               <div className="group hover:scale-110 transition-all duration-300 cursor-pointer hover:bg-secondary/5 p-4 rounded-lg">
                 <div className="text-3xl md:text-4xl font-bold text-secondary mb-2 group-hover:text-secondary/80 transition-colors">
-                  500+
+                  5000+
                 </div>
                 <div className="text-muted-foreground flex items-center justify-center gap-2 group-hover:text-secondary/70 transition-colors">
                   <Award className="h-5 w-5 text-primary group-hover:rotate-12 transition-transform" />
@@ -482,13 +482,13 @@ export default function HomePage() {
               </div>
               <div className="group hover:scale-110 transition-all duration-300 cursor-pointer hover:bg-primary/5 p-4 rounded-lg">
                 <div className="text-3xl md:text-4xl font-bold text-primary mb-2 group-hover:text-primary/80 transition-colors">
-                  100+
+                  10000+
                 </div>
                 <div className="text-muted-foreground group-hover:text-primary/70 transition-colors">Happy Clients</div>
               </div>
               <div className="group hover:scale-110 transition-all duration-300 cursor-pointer hover:bg-secondary/5 p-4 rounded-lg">
                 <div className="text-3xl md:text-4xl font-bold text-secondary mb-2 group-hover:text-secondary/80 transition-colors">
-                  50+
+                  80+
                 </div>
                 <div className="text-muted-foreground flex items-center justify-center gap-2 group-hover:text-secondary/70 transition-colors">
                   <UserCheck className="h-5 w-5 text-primary group-hover:rotate-12 transition-transform" />
